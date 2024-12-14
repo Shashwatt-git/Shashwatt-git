@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashwatt-git&label=Profile%20views&color=0e75b6&style=flat" alt="shashwatt-git" /> </p>
 
-- 🌱 I’m currently learning *Flutter*
+- Proficient in Flutter
+- Proicient in Full Stack Deveelopment
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shashwatt-git](https://github.com/Shashwatt-git)
 
