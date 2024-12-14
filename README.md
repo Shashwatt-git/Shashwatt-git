@@ -10,7 +10,7 @@
 
 - 💬 Ask me about *Anything!*
 
-- 📫 How to reach me *qwertyshashwat77@gmail.com*
+- 📫 How to reach me *reachshashwatchandel@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
