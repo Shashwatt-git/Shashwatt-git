@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashwatt-git&label=Profile%20views&color=0e75b6&style=flat" alt="shashwatt-git" /> </p>
 
 - Proficient in Flutter
-- Proicient in Full Stack Deveelopment
+- Proicient in Full Stack Development
 
 - 👨‍💻 All of my projects are available at [https://github.com/Shashwatt-git](https://github.com/Shashwatt-git)
 
