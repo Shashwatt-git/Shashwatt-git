@@ -21,7 +21,7 @@
 ---
 
 ## 🧠 About Me
-```python
+```
 class ShashwatChandel:
     def __init__(self):
         self.name        = "Shashwat Chandel"
