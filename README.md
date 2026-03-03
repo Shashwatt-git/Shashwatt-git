@@ -21,35 +21,15 @@
 ---
 
 ## 🧠 About Me
-```
-class ShashwatChandel:
-    def __init__(self):
-        self.name        = "Shashwat Chandel"
-        self.role        = "M.Tech Information Security @ MNNIT Allahabad"
-        self.location    = "Prayagraj, India"
-        self.research    = "Published @ Springer Nature AI/ML Volume (2026)"
-        self.interests   = [
-            "AI Agents & LLM Systems",
-            "Cybersecurity & Threat Intelligence",
-            "Backend Engineering",
-            "C++ Systems Programming",
-            "Open Source Development"
-        ]
 
-    def current_focus(self):
-        return [
-            "Hybrid Metaheuristic Optimization (Published Research)",
-            "Multi-Modal Autonomous AI Agents (AURA)",
-            "AI-Powered Security Tooling (CodeSentinel, ThreatSentry)",
-            "MCP-based Multi-Agent Testing Frameworks (VibeTest)",
-            "Deep-diving into Systems Security & Exploit Dev"
-        ]
-
-    def fun_fact(self):
-        return "I went from Flutter apps -> AI agents -> Security research. Never stop building."
-```
+- 🎓 M.Tech Information Security @ MNNIT Allahabad  
+- 📍 Prayagraj, India  
+- 📚 Published Research @ Springer Nature (2026)  
+- 🤖 AI Agents · LLM Systems · Cybersecurity  
+- ⚙️ C++ Systems · Backend · DevSecOps  
 
 ---
+
 
 ## 🚀 Featured Projects
 
